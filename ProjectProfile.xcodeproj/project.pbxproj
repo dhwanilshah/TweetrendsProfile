@@ -56,6 +56,7 @@
 		B99A3B4B18C3C8BF00CCD02B /* ProjectProfileTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ProjectProfileTests-Info.plist"; sourceTree = "<group>"; };
 		B99A3B4D18C3C8BF00CCD02B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		B99A3B4F18C3C8BF00CCD02B /* ProjectProfileTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ProjectProfileTests.m; sourceTree = "<group>"; };
+		B99A3B5A18C3CA5E00CCD02B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -292,6 +293,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				B99A3B3418C3C8BF00CCD02B /* Base */,
+				B99A3B5A18C3CA5E00CCD02B /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
